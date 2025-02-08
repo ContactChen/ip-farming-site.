@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IP Farming - Unlimited IP Solutions</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <style>
+        body { font-family: Arial, sans-serif; }
+        .hero-section { background: #f0f8ff; padding: 50px 20px; text-align: center; }
+        .device-showcase, .features, .pricing, .footer { padding: 40px 20px; }
+        .feature-box { padding: 20px; background: #fff; border: 1px solid #ddd; border-radius: 10px; }
+        .crypto-icons img { width: 40px; margin: 5px; }
+    </style>
+</head>
+<body>
+    <!-- Header with Logo -->
+    <nav class="navbar navbar-light bg-light">
+        <div class="container">
+            <a class="navbar-brand" href="#">
+                <img src="logo.png" alt="IP Farming Logo" width="150">
+            </a>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero-section">
+        <h1>Sell Proxies & Devices for Unlimited IP Generation</h1>
+        <p>Buy our devices to generate unlimited IPs, or purchase proxies directly for instant use. Currently offering dynamic proxies only.</p>
+    </section>
+
+    <!-- Device Showcase -->
+    <section class="device-showcase container">
+        <div class="row align-items-center">
+            <div class="col-md-6">
+                <img src="device.jpg" class="img-fluid" alt="Device Image">
+            </div>
+            <div class="col-md-6">
+                <h2>High-Performance IP Devices</h2>
+                <p>Support multiple countries globally, high efficiency, and fast speed.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="features bg-light">
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-md-3 feature-box">
+                    <h4>Global Support</h4>
+                    <p>Devices support a wide range of countries.</p>
+                </div>
+                <div class="col-md-3 feature-box">
+                    <h4>High Quantity</h4>
+                    <p>Generate countless IPs effortlessly.</p>
+                </div>
+                <div class="col-md-3 feature-box">
+                    <h4>Ultra Fast</h4>
+                    <p>Unmatched speed and performance.</p>
+                </div>
+                <div class="col-md-3 feature-box">
+                    <h4>Secure & Anonymous</h4>
+                    <p>High-level security with complete anonymity.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Pricing Section -->
+    <section class="pricing container">
+        <h2 class="text-center">Proxy Pricing (Traffic-Based)</h2>
+        <div class="row text-center">
+            <div class="col-md-4">
+                <h3>2G Plan</h3>
+                <p>Perfect for light users</p>
+            </div>
+            <div class="col-md-4">
+                <h3>5G Plan</h3>
+                <p>Best for moderate usage</p>
+            </div>
+            <div class="col-md-4">
+                <h3>50G Plan</h3>
+                <p>Ideal for heavy traffic needs</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Support & Customization -->
+    <section class="container my-5">
+        <h2>Support & Customization</h2>
+        <p>Need custom solutions? Contact us for tailored services and dedicated support.</p>
+    </section>
+
+    <!-- Footer with Crypto Payments -->
+    <footer class="footer bg-dark text-white text-center">
+        <p>We accept payments via Binance</p>
+        <div class="crypto-icons">
+            <img src="usdt.png" alt="USDT">
+            <img src="btc.png" alt="BTC">
+            <img src="ltc.png" alt="LTC">
+            <img src="eth.png" alt="ETH">
+            <img src="sol.png" alt="SOL">
+        </div>
+        <p>&copy; 2025 IP Farming. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
